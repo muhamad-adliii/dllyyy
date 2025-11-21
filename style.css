@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  padding: 3%;
+  background-color: aqua;
+}
+
+.content {
+  display: flex;
+  padding: 5%;
+  gap: 10px;
+  justify-content: center;
+}
+
+.box-content {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
